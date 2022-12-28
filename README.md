@@ -23,6 +23,7 @@
    - Sistem perpustakaan berbasis dekstop
    - Sistem penjualan berbasis web
    - Sistem absensi karyawan berbasis web menggunakan alat RFID Arduino
+   - Instalasi jaringan mikrotik
 ---
 
 ### Languages and Tools:
