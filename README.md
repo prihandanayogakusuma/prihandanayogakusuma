@@ -24,7 +24,7 @@
    - Sistem penjualan berbasis web
    - Sistem absensi karyawan berbasis web menggunakan alat RFID Arduino
    - Instalasi jaringan mikrotik
----
+--
 
 ### Languages and Tools:
 
@@ -39,7 +39,7 @@
 <br />
 <br />
 
----
+--
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC15ajfCEfJGsGv4uNqhMWAA#gh-light-mode-only)
