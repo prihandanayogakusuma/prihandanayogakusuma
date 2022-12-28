@@ -18,6 +18,8 @@
    - Check for wasted parts
    - Set the line follower robot sending goods
    - The operation of the goods data collection system
+ 
+ ----
 
 ## Projects:
    - Sistem perpustakaan berbasis dekstop
@@ -37,6 +39,8 @@
 
 <br />
 <br />
+
+----
 
 ### Connect with me:
 
