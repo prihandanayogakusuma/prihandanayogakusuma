@@ -8,13 +8,10 @@
 - 📫 How to reach me: prihandana@gmail.com
 
 ## Education:
-
 #### 1. [Universitas Pelita Bangsa](https://www.upb.ac.id) | Bachelor of informatic engineer| Bekasi `2018-2022`
-   - Member active student (HIMATIF)
+   - Member active student (HIMATIF
+#### 2. [SMK Maarif Nu 1 purbolinggo](https://smkmaarifpurbolinggo.sch.id/) | Teknik komputer&jaringan| Lampung timur `2014-2017`
   
- #### 2. [SMK Maarif Nu 1 purbolinggo](https://smkmaarifpurbolinggo.sch.id/) | Teknik komputer&jaringan| Lampung timur `2014-2017`
-  
-
 ## Work Experience:
 #### 1. [PT.indonesia Epson Industry] | Parts warehouse | Bekasi `Dec'2020 - 2022`
    - Implement cheker activities for goods
@@ -29,6 +26,7 @@
 ---
 
 ### Languages and Tools:
+
 [<img align="left" alt="flutter" width="30px" src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="php" width="30px" src="https://webmentor.org/blog_images/php-logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
