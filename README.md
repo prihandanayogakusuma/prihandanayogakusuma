@@ -43,8 +43,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC15ajfCEfJGsGv4uNqhMWAA#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC15ajfCEfJGsGv4uNqhMWAA#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/prihandanayoga#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/prihandanayoga#gh-dark-mode-only)
