@@ -17,10 +17,15 @@
 
 ## Work Experience:
 #### 1. [PT.indonesia Epson Industry] | Parts warehouse | Bekasi `Dec'2020 - 2022`
-  - Implement cheker activities for goods
+   - Implement cheker activities for goods
    - Check for wasted parts
    - Set the line follower robot sending goods
    - The operation of the goods data collection system
+
+## Projects:
+   - Sistem perpustakaan berbasis dekstop
+   - Sistem penjualan berbasis web
+   - Sistem absensi karyawan berbasis web menggunakan alat RFID Arduino
 ---
 
 ### Languages and Tools:
@@ -41,15 +46,15 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/prihandanayoga#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/prihandanayoga#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/prihandana-yoga-44ab5b1a4#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/prihandana-yoga-44ab5b1a4#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/prihandana_yoga#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/prihandana_yoga#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/prihandanayogakusuma
