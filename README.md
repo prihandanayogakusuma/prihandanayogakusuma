@@ -2,8 +2,8 @@
 ## About me:
 - 🔭 I’m currently jobsekeer
 - 🌱 I’m currently basicly programing php, flutter, Javascript, mysql server
-- 🌱 I’m currently basicly IT Networking mirkotik
-- 🤔 I’m understand the concept of oop, cms, linux
+- 🌱 I’m currently basicly IT Networking & IT Leader
+- 🤔 I’m understand the concept of PHP, HTML, CSS, MYSQL
 - 💬 Ask me about anything
 - 📫 How to reach me: prihandana@gmail.com
 
@@ -13,17 +13,32 @@
 #### 2. [SMK Maarif Nu 1 purbolinggo](https://smkmaarifpurbolinggo.sch.id/) | Teknik komputer&jaringan| Lampung timur `2014-2017`
   
 ## Work Experience:
-#### 1. [PT.indonesia Epson Industry] | Parts warehouse | Bekasi `Dec'2020 - 2022`
-   - Implement cheker activities for goods
-   - Check for wasted parts
-   - Set the line follower robot sending goods
-   - The operation of the goods data collection system
+#### 1. [PT.Global Inti Sejati & Garuda Mart Indonesia | IT Leader| Bekasi `Dec'2024 - Present`
+  - Building and developing the IT help desk system
+  - Building and developing the IT asset management system
+  - Developing network and server systems
+  - Computer and network maintenance
+  - Computer and network troubleshooting
+  - CCTV management
+  - PABX management
+  - Weekly and annual IT budgeting
+
+
+#### 2. [PT.Indofun Digital Technologi | IT Support| Jakarta `Dec'2023 - 2024`
+  - Network and Server System Development
+  - Computer and Network Maintenance
+  - Computer and Network Troubleshooting
+  - CCTV Management
+  - PABX Management
+ 
  ----
 ## Projects:
-   - Sistem perpustakaan berbasis dekstop
+   - Sistem Helpdesk IT Suport
+   - Sistem Aset management IT
+   - Sistem pengambilan Barang GA
    - Sistem penjualan berbasis web
    - Sistem absensi karyawan berbasis web menggunakan alat RFID Arduino
-   - Instalasi jaringan mikrotik
+   - Instalasi jaringan Server & Networking Site To Site
 
 ### Languages and Tools:
 
